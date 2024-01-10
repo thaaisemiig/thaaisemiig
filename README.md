@@ -2,8 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+:%29)](https://git.io/typing-svg)
 
-Meu nome é Thaís Emig , tenho 28 anos e sou estudante de Desenvolvimento Web Full Stack na Growdev. Atualmente trabalho em uma financeira, então estou em transição de carreira. Amo passar tempo com minha filha 💓 ouvir música 🎶, assistir filmes, séries e compartilhar bons momentos com meus amigos.
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thaaisemiig&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thaís Emig github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaaisemiig&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
