@@ -7,6 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaaisemiig&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<p>Meu nome é Thaís Emig , tenho 28 anos e sou estudante de Desenvolvimento Web Full Stack na Growdev. Estou em transição de carreira. Amo passar tempo com minha filha 💓 ouvir música 🎶, assistir filmes, séries e compartilhar bons momentos com meus amigos</p>
  
 <h3>Minhas Hard-Skills</h3>
 
